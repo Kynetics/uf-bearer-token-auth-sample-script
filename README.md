@@ -1,2 +1,13 @@
-# uf-bearer-token-auth-sample-script
-Example python script that shows how to retrieve a bearer token using API clients and then use it to authenticate a UF Mgmt API request.
+# Requirements
+- Python 3
+
+# Python script sample usage
+
+The script exchanges API Client credentials for a Bearer token, then uses the token to authenticate a Management API call. Usage:
+
+python3 validate_bearer_token.py \
+    --mgmt-url https://mgmt.business.updatefactory.io \
+    --tenant MY_TENANT \
+    --client-name my-api-client \
+    --client-secret my-client-secret
+
