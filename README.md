@@ -1,7 +1,7 @@
 # Requirements
 - Python 3
 
-# Python script sample usage
+# Script usage
 
 The script exchanges API Client credentials for a Bearer token, then uses the token to authenticate a Management API call. Usage:
 
