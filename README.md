@@ -1,9 +1,9 @@
 # UpdateFactory sample script for using API Clients
 
-# Requirements
+## Requirements
 - Python 3
 
-# Script usage
+## Script usage
 
 The script exchanges API Client credentials for a Bearer token, then uses the token to authenticate a Management API call. Usage:
 
@@ -14,6 +14,6 @@ python3 validate_bearer_token.py \
     --client-secret my-client-secret
 
 
-# License
+## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
