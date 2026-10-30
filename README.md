@@ -13,6 +13,8 @@ python3 validate_bearer_token.py \
     --client-name my-api-client \
     --client-secret my-client-secret
 
+This script can be used as a reference for updating custom scripts that access via Basic Auth with username & password.
+
 
 ## License & Copyright
 
