@@ -11,3 +11,7 @@ python3 validate_bearer_token.py \
     --client-name my-api-client \
     --client-secret my-client-secret
 
+
+# License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

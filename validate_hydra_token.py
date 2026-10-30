@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Copyright (c) 2026 Kynetics Inc. All rights reserved.
+# Licensed under the MIT License. See the LICENSE file for details.
 """
 Hydra Token Validation Script
 
