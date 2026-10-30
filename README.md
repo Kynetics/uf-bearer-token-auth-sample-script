@@ -14,6 +14,7 @@ python3 validate_bearer_token.py \
     --client-secret my-client-secret
 
 
-## License
+## License & Copyright
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
+Copyright (c) 2026 Kynetics Inc. All rights reserved.
